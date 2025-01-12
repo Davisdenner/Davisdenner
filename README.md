@@ -4,7 +4,6 @@ Sou Pós-Graduando em Ciência de Dados, com experiência em linguagem de progra
 <br/><br/>
 <div align = "center">
 <a href="https://github.com/Davisdenner">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davisdenner&layout=compact&langs_count=7&theme=dark"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Davisdenner&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
