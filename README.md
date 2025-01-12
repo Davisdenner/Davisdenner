@@ -5,7 +5,7 @@ Sou Pós-Graduando em Ciência de Dados, com experiência em linguagem de progra
 
  ##  📫 Contatos
 
- div>
+
 <a href = "davis93denner@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/davis-denner-costa-silva-4536a51b0/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
