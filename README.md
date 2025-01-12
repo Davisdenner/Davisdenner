@@ -1,4 +1,7 @@
+
+<div align = "center">
 Sou Pós-Graduando em Ciência de Dados, com experiência em linguagem de programação Python, SQL e conhecimento avançado em estatística. Minha jornada em Ciência de Dados começou em 2023, iniciando com Python para análise de dados estatísticos e desde então se expandiu para outras tecnologias como Power BI, SQL e outras. Minha expertise em Python se estende através de diversos domínios, incluindo  Machine Learning, Clusterização e Pandas. 
+</div>
 
 
 <div align = "center">
@@ -13,7 +16,7 @@ Sou Pós-Graduando em Ciência de Dados, com experiência em linguagem de progra
  ##  📫 Contatos
 
 
-<a href = "davis93denner@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 <a href="https://www.linkedin.com/in/davis-denner-costa-silva-4536a51b0/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 
