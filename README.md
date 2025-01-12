@@ -1,5 +1,5 @@
 <div align = "center">
-Sou Pós-Graduando em Ciência de Dados, com experiência em linguagem de programação Python, SQL e conhecimento avançado em estatística. Minha jornada em Ciência de Dados começou em 2023, iniciando com Python para análise de dados estatísticos e desde então se expandiu para outras tecnologias como Power BI, SQL e outras. Minha expertise em Python se estende através de diversos domínios, incluindo  Machine Learning, Clusterização e Pandas. 
+Sou Pós-Graduando em <b>Ciência de Dados</b>, com experiência em linguagem de programação Python, SQL e conhecimento avançado em estatística. Minha jornada em Ciência de Dados começou em 2023, iniciando com Python para análise de dados estatísticos e desde então se expandiu para outras tecnologias como Power BI, SQL e outras. Minha expertise em Python se estende através de diversos domínios, incluindo  Machine Learning, Clusterização e Pandas. 
 </div>
 <br/><br/>
 <div align = "center">
