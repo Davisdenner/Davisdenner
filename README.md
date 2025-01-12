@@ -21,18 +21,20 @@
 
   
           
-          
-           
-          
-          
-          
-          
+    
 
  ##  📫 Contatos
 
 
 
 <a href="https://www.linkedin.com/in/davis-denner-costa-silva-4536a51b0/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
+
+![Snake animation](https://github.com/Davisdenner/Davisdenner/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
 
 
 
