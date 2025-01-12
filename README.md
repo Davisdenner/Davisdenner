@@ -2,10 +2,6 @@
 - 📊 Pós-Graduando em <b>Ciência de Dados</b> pela Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio).
 - 🔭 Formado em <b>Física</b>  pelo Instiuto Federal do Tocantins.
 - 💭 Minha expertise em Python se estende através de diversos domínios, incluindo  Machine Learning, Clusterização e Pandas. 
-
-
-
-
 <br/><br/>
 <div >
 <a href="https://github.com/Davisdenner">
