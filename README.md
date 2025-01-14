@@ -1,6 +1,6 @@
 💫 Olá mundo! Sou o Davis💫 
 - 📊 Pós-Graduando em <b>Ciência de Dados</b> pela Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio).
-- 🔭 Formado em <b>Física</b>  pelo Instiuto Federal do Tocantins.
+- 🔭 Formado em <b>Física</b>  pelo Instituto Federal do Tocantins.
 - 💭 Minha expertise em Python se estende através de diversos domínios, incluindo  Machine Learning, Clusterização e Pandas.
 - 🎯 Meu foco está em implementar soluções e construir modelos de análise eficientes, mais ágeis e consistentes. 
 <br/><br/>
