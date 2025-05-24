@@ -1,9 +1,10 @@
 ![Header](./github-header-image.png)
 
 - 📊 Pós-Graduando em <b>Ciência de Dados</b> pela Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio).
-- 🔭 Formado em <b>Física</b>  pelo Instituto Federal do Tocantins.
-- 💭 Minha expertise em Python se estende através de diversos domínios, incluindo  Machine Learning, Clusterização e Pandas.
-- 🎯 Meu foco está em implementar soluções e construir modelos de análise eficientes, mais ágeis e consistentes. 
+- ⚛️ Formado em <b>Física</b>  pelo Instituto Federal do Tocantins.
+- 💻 Possuo sólida experiência com Python, atuando com bibliotecas como Pandas, scikit-learn e técnicas de Machine Learning e Clusterização.
+- 📈 Tenho experiência consolidada em Power BI, criando dashboards interativos e relatórios que facilitam a tomada de decisão baseada em dados.
+- 🚀 Meu foco é desenvolver soluções analíticas ágeis, escaláveis e orientadas a resultados, unindo modelagem, visualização e eficiência de ponta a ponta.. 
 <br/><br/>
 
 <div align="center">
