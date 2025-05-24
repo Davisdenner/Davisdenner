@@ -11,7 +11,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Davisdenner&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-## 💻 Tecnologias
+## 💻 Data Tools & Technologies
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" width="50" height="50" /> 
