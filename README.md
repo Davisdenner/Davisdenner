@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image2.png)
 
 - 📊 Pós-Graduando em <b>Ciência de Dados</b> pela Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio).
 - ⚛️ Graduado em <b>Física</b>  pelo Instituto Federal do Tocantins.
