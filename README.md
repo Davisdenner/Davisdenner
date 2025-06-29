@@ -1,4 +1,6 @@
-![Header](./github-header-image.png)
+<p align="center">
+  <img src="./github-header-image.png" alt="Header do GitHub" />
+</p>
 
 
 - 📊 Pós-Graduando em <b>Ciência de Dados</b> pela Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio).
