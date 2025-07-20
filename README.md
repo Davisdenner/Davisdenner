@@ -1,5 +1,5 @@
 
-## :wave: Hey everyone, I'm Davis Denner®™ AKA®™ .CSV Slayer®™  :wave:
+## :wave: Hey everyone, I'm Davis Denner®™ AKA .CSV Slayer®™  :wave:
 
 <p align="center">
   <img src="./github-header-image5.png" alt="Header do GitHub" />
