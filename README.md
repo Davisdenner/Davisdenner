@@ -1,5 +1,5 @@
 
-##                     :wave: Hey everyone, I'm Davis Denner®™ AKA .CSV Slayer®™  :wave:
+##                     :wave: Hey everyone, I'm Davis Denner AKA .CSV Slayer  :wave:
 
 - 📊 Pós-Graduando em <b>Ciência de Dados</b> pela Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio);
 - ⚛️ Graduado em <b>Física</b>  pelo Instituto Federal do Tocantins;          
