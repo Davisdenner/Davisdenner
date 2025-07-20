@@ -1,11 +1,6 @@
 
 ##                     :wave: Hey everyone, I'm Davis Denner®™ AKA .CSV Slayer®™  :wave:
 
-<p align="center">
-  <img src="./github-header-image5.png" alt="Header do GitHub" />
-</p>
-
-
 - 📊 Pós-Graduando em <b>Ciência de Dados</b> pela Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio);
 - ⚛️ Graduado em <b>Física</b>  pelo Instituto Federal do Tocantins;          
 - 💻 Possuo sólida experiência com Python, atuando com bibliotecas como Pandas, scikit-learn e técnicas de Machine Learning e Clusterização;
