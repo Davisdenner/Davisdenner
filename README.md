@@ -1,4 +1,4 @@
-## :wave:👋 Hello World, I'm Davis Denner 👋 :wave:
+## :wave: Hello World, I'm Davis Denner  :wave:
 
 <p align="center">
   <img src="./github-header-image5.png" alt="Header do GitHub" />
