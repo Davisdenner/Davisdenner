@@ -1,14 +1,10 @@
 ##                     :wave: Hey everyone, I'm Davis Denner :wave:
 
-📊 Postgraduate degree in <b>Data Science</b> from the Pontifical Catholic University of Rio de Janeiro (PUC-Rio);
-
-⚛️ Bachelor’s degree in <b>Physics</b> from the Federal Institute of Tocantins (IFTO);
-
-💻 Strong experience with Python, working with libraries such as Pandas, scikit-learn, and applying Machine Learning and Clustering techniques;
-
-📈 Solid experience with Power BI, developing interactive dashboards and reports that support data-driven decision-making;
-
-🚀 Focused on building agile, scalable, and results-oriented analytical solutions, combining modeling, visualization, and efficiency.
+- 📊 Postgraduate degree in <b>Data Science</b> from the Pontifical Catholic University of Rio de Janeiro (PUC-Rio);
+- ⚛️ Graduated in <b>Physics</b> from the Federal Institute of Tocantins (IFTO);
+- 💻 Strong experience with Python, working with libraries such as Pandas, scikit-learn, and applying Machine Learning and Clustering techniques;
+- 📈 Solid experience with Power BI, developing interactive dashboards and reports that support data-driven decision-making;
+- 🚀 Focused on building agile, scalable, and results-oriented analytical solutions, combining modeling, visualization, and efficiency.
 <br/><br/>
 
 <div align="center">
