@@ -7,17 +7,12 @@
 - 🚀 Focused on building agile, scalable, and results-oriented analytical solutions, combining modeling, visualization, and efficiency.
 
 ---
+## 🚀 Featured Projects
 
-<div align="center">
-  
-## 📊 Professional Focus
-
-- Machine Learning for Business Forecasting
-- Predictive Modeling
-- Data Engineering & Pipelines
-- Analytical Dashboards
-- Statistical Modeling
-
+- 📊 Demand Forecasting Model (Machine Learning + Streamlit)
+- 🏗️ Project Duration Prediction (Regression + Clustering)
+- 📈 Interactive Productivity Dashboard (Plotly + PostgreSQL)
+- ☁️ Data Pipeline with Databricks
 ---
 
 ## 💻 Data Tools & Technologies
