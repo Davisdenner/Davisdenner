@@ -14,7 +14,7 @@
 - 📈 Interactive Productivity Dashboard (Plotly + PostgreSQL)
 - ☁️ Data Pipeline with Databricks
 ---
-
+<div align="center">
 ## 💻 Data Tools & Technologies
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
