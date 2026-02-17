@@ -1,40 +1,40 @@
-##                     :wave: Hey everyone, I'm Davis Denner :wave:
+## 👋 Hey everyone, I'm Davis Denner 👋
 
-- 📊 Postgraduate degree in <b>Data Science</b> from the Pontifical Catholic University of Rio de Janeiro (PUC-Rio);
-- ⚛️ Graduated in <b>Physics</b> from the Federal Institute of Tocantins (IFTO);
+- 📊 Postgraduate degree in **Data Science** from the Pontifical Catholic University of Rio de Janeiro (PUC-Rio);
+- ⚛️ Graduated in **Physics** from the Federal Institute of Tocantins (IFTO);
 - 💻 Strong experience with Python, working with libraries such as Pandas, scikit-learn, and applying Machine Learning and Clustering techniques;
 - 📈 Solid experience with Power BI, developing interactive dashboards and reports that support data-driven decision-making;
 - 🚀 Focused on building agile, scalable, and results-oriented analytical solutions, combining modeling, visualization, and efficiency.
-<br/><br/>
+
+---
 
 <div align="center">
   
-  <a href="https://github.com/Davisdenner">
+<a href="https://github.com/Davisdenner">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davisdenner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davisdenner&layout=compact&langs_count=3&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davisdenner&layout=compact&langs_count=3&theme=tokyonight" />
+</a>
 
+---
 
+## 💻 Data Tools & Technologies
 
-  </a>
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)](https://keras.io/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/)
+[![Databricks](https://img.shields.io/badge/Databricks-E52E2E?logo=databricks&logoColor=white)](https://www.databricks.com/)
 
-  <h2>💻 Data Tools & Technologies</h2>
+---
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" width="50" height="50" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="30" height="30"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="30" height="30" />
-  <img src="https://cdn.simpleicons.org/databricks/E52E2E" width="40" height="40" />
+## 📫 Contact
 
-  <h2>📫 Contato</h2>
-
-  <a href="https://www.linkedin.com/in/davis-denner-costa-silva-4536a51b0/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davis-denner-costa-silva-4536a51b0/)
 
 </div>
