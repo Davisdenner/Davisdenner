@@ -6,7 +6,6 @@
 - 📈 Solid experience with Power BI, developing interactive dashboards and reports that support data-driven decision-making;
 - 🚀 Focused on building agile, scalable, and results-oriented analytical solutions, combining modeling, visualization, and efficiency.
 
----
 ## 📊 Professional Focus
 
 - Machine Learning for Business Forecasting
@@ -28,7 +27,6 @@
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/)
 [![Databricks](https://img.shields.io/badge/Databricks-E52E2E?logo=databricks&logoColor=white)](https://www.databricks.com/)
 
----
 
 ## 📫 Contact
 
