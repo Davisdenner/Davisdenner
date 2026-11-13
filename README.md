@@ -1,35 +1,49 @@
-## 👋 Hey everyone, I'm Davis Denner 👋
+# 👋 Hi, I'm Davis Denner
 
-- 📊 Postgraduate degree in **Data Science** from the Pontifical Catholic University of Rio de Janeiro (PUC-Rio);
-- ⚛️ Graduated in **Physics** from the Federal Institute of Tocantins (IFTO);
-- 💻 Strong experience with Python, working with libraries such as Pandas, scikit-learn, and applying Machine Learning and Clustering techniques;
-- 📈 Solid experience with Power BI, developing interactive dashboards and reports that support data-driven decision-making;
-- 🚀 Focused on building agile, scalable, and results-oriented analytical solutions, combining modeling, visualization, and efficiency.
+**Data Scientist | Python | Machine Learning | Statistical Modeling**
 
-## 📊 Professional Focus
+I'm a Data Scientist with a background in Physics and a postgraduate degree in Data Science from PUC-Rio.
 
-- Machine Learning for Business Forecasting
-- Predictive Modeling
-- Data Engineering & Pipelines
-- Analytical Dashboards
-- Statistical Modeling
+I enjoy connecting mathematics, statistics, and programming to solve real-world business problems. My work focuses on developing predictive models, analyzing complex datasets, and building analytical tools that support planning and decision-making.
 
-## 💻 Data Tools & Technologies
+I'm particularly interested in **machine learning, predictive analytics, statistical modeling, and practical applications of data science.**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)](https://keras.io/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/)
-[![Databricks](https://img.shields.io/badge/Databricks-E52E2E?logo=databricks&logoColor=white)](https://www.databricks.com/)
+## 🔍 What I Work On
 
+- **Predictive Modeling:** Developing machine learning models, including XGBoost, to forecast project effort and support resource planning.
+- **Statistical Modeling & Simulation:** Applying Monte Carlo simulations and Markov chains to explore uncertainty, evaluate scenarios, and support forecasting.
+- **Data Analytics & Visualization:** Building interactive dashboards and analytical applications using Python, SQL, Dash, Plotly, and Power BI to transform operational data into actionable insights.
 
-## 📫 Contact
+## 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davis-denner-costa-silva-4536a51b0/)
+**Programming & Databases**
 
-</div>
+Python · SQL · PostgreSQL
+
+**Machine Learning & Statistics**
+
+Pandas · NumPy · Scikit-learn · XGBoost · Statistical Modeling · Monte Carlo Simulation
+
+**Analytics & Visualization**
+
+Dash · Plotly · Power BI · Streamlit
+
+**Currently Exploring**
+
+Databricks · Data Engineering · MLOps
+
+## 🎓 Education
+
+**Postgraduate Degree in Data Science**
+
+Pontifical Catholic University of Rio de Janeiro (PUC-Rio)
+
+**Bachelor's Degree in Physics**
+
+Federal Institute of Tocantins (IFTO)
+
+## 📫 Let's Connect
+
+I'm always interested in discussing data science, machine learning, and opportunities to solve meaningful problems with data.
+
+[LinkedIn](https://www.linkedin.com/in/davis-denner-costa-silva-4536a51b0/)
