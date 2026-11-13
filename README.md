@@ -38,7 +38,7 @@ Databricks · Data Engineering · MLOps
 
 Pontifical Catholic University of Rio de Janeiro (PUC-Rio)
 
-**Bachelor's Degree in Physics**
+**Graduate's Degree in Physics**
 
 Federal Institute of Tocantins (IFTO)
 
