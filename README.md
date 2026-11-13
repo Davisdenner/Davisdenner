@@ -180,7 +180,7 @@ Developing analytical tools to transform operational information into business i
 
 **Postgraduate Degree in Data Science**
 
-Pontifical Catholic University of Rio de Janeiro — **PUC-Rio**
+Pontifical Catholic University of Rio de Janeiro (**PUC-Rio**)
 
 </td>
 </tr>
@@ -190,7 +190,7 @@ Pontifical Catholic University of Rio de Janeiro — **PUC-Rio**
 
 **Bachelor's Degree in Physics**
 
-Federal Institute of Tocantins — **IFTO**
+Federal Institute of Tocantins (**IFTO**)
 
 </td>
 </tr>
