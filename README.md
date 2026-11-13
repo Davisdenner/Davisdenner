@@ -40,7 +40,7 @@ I work across the full analytical process, from preparing data and developing pr
     <td valign="middle">
       <strong>Forecasting project effort</strong>
       <br /><br />
-      Applied regression models, including <strong>XGBoost</strong>, to estimate engineering project hours from historical and project-level features. Used evaluation measures such as R², RMSE, and MAPE to understand predictive performance and support planning discussions.
+      Applied regression models, including <strong>XGBoost</strong>, to estimate project hours from historical and project-level features. Used evaluation measures such as R², RMSE, and MAPE to understand predictive performance and support planning discussions.
       <br /><br />
       <code>Python</code> <code>XGBoost</code> <code>Regression</code>
     </td>
