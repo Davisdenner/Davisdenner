@@ -26,8 +26,6 @@ I work across the full analytical process, from preparing data and developing pr
 
 ## Selected work
 
-*A few examples of the problems I've worked on, described at a high level without proprietary data or source code.*
-
 <table>
   <tr>
     <td width="42%">
